@@ -1,8 +1,7 @@
 To create new brach: `git checkout -b test`
 to swifth branch: ` git checkout <branchName>`
 to merge branch: git merge <branchName>`  (merges another branch to current br.)
-git log --oneline
+To see one line: `git log --oneline`
 
 To add new branch on github site: `git push --set-upstream origin <branchName> `
-work1
-work2
+
