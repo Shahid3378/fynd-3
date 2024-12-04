@@ -4,4 +4,3 @@ to merge branch: git merge <branchName>`  (merges another branch to current br.)
 To see one line: `git log --oneline`
 
 To add new branch on github site: `git push --set-upstream origin <branchName> `
-
