@@ -4,5 +4,4 @@ to merge branch: git merge <branchName>`  (merges another branch to current br.)
 git log --oneline
 
 To add new branch on github site: `git push --set-upstream origin <branchName> `
-work1
-work2
+
