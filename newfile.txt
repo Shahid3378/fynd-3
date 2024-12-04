@@ -1,0 +1,3 @@
+To create new brach: `git checkout -b test`
+to swifth branch: ` git checkout <branchName>`
+to merge branch: git merge <branchName>`  (merges another branch to current br.)
